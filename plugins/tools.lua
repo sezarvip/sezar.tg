@@ -1,5 +1,5 @@
 --Begin Tools.lua :)
-local SUDO = 157059515 -- put Your ID here! <===
+local SUDO = 304240834 -- put Your ID here! <===
 function exi_files(cpath)
     local files = {}
     local pth = cpath
@@ -1427,7 +1427,7 @@ patterns = {
 "^[!/#](admindem) (.*)$",
 "^[!/#](leave)$",
 "^[!/#](autoleave) (.*)$", 
-"^[!/#](beyond)$",
+"^[!/#](sezar)$",
 "^[!/#](creategroup) (.*)$",
 "^[!/#](createsuper) (.*)$",
 "^[!/#](tosuper)$",
